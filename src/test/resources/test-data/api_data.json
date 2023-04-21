@@ -1,0 +1,17 @@
+{
+  "SIT": [
+    {
+      "api": "login",
+      "uri": "http://restapi.adequateshop.com/api/authaccount",
+      "path": "/login"
+    },
+    {
+      "api": "getUserById",
+      "uri": "http://restapi.adequateshop.com/api",
+      "path": "/users/%s"
+    }
+  ],
+  "UAT" : [
+
+  ]
+}
